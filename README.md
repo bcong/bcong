@@ -21,12 +21,6 @@
 ---
 <div align="center">
 <a href="https://github.com/bcong">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcong&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
-</a>
-<a href="https://github.com/bcong">
-  <img src="https://github-readme-stats.vercel.app/api?username=bcong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
-</a>
-<a href="https://github.com/bcong">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bcong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bcong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 </div>
