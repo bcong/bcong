@@ -130,13 +130,10 @@
 ## 연락처
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/globe.svg"><img src="assets/icons/light/globe.svg" alt="" width="16" height="16"></picture>&nbsp;<b>포트폴리오</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:bcong9455@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/gmail.svg"><img src="assets/icons/light/gmail.svg" alt="" width="16" height="16"></picture>&nbsp;bcong9455@gmail.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:sudn_@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/naver.svg"><img src="assets/icons/light/naver.svg" alt="" width="16" height="16"></picture>&nbsp;sudn_@naver.com</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://velog.io/@bcong"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/velog.svg"><img src="assets/icons/light/velog.svg" alt="" width="16" height="16"></picture>&nbsp;Velog</a>
+  <a href="https://bcong-portfolio.pages.dev/"><picture><source media="(max-width: 470px) and (prefers-color-scheme: dark)" srcset="assets/contact/portfolio-m-dark.svg"><source media="(max-width: 470px)" srcset="assets/contact/portfolio-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/contact/portfolio-dark.svg"><img src="assets/contact/portfolio-light.svg" alt="포트폴리오 바로가기" width="412"></picture></a>
+  <a href="mailto:bcong9455@gmail.com"><picture><source media="(max-width: 470px) and (prefers-color-scheme: dark)" srcset="assets/contact/gmail-m-dark.svg"><source media="(max-width: 470px)" srcset="assets/contact/gmail-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/contact/gmail-dark.svg"><img src="assets/contact/gmail-light.svg" alt="Gmail로 메일 보내기" width="412"></picture></a>
+  <a href="mailto:sudn_@naver.com"><picture><source media="(max-width: 470px) and (prefers-color-scheme: dark)" srcset="assets/contact/naver-m-dark.svg"><source media="(max-width: 470px)" srcset="assets/contact/naver-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/contact/naver-dark.svg"><img src="assets/contact/naver-light.svg" alt="네이버 메일로 보내기" width="412"></picture></a>
+  <a href="https://velog.io/@bcong"><picture><source media="(max-width: 470px) and (prefers-color-scheme: dark)" srcset="assets/contact/velog-m-dark.svg"><source media="(max-width: 470px)" srcset="assets/contact/velog-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/contact/velog-dark.svg"><img src="assets/contact/velog-light.svg" alt="Velog 블로그 바로가기" width="412"></picture></a>
 </p>
 
 <p align="center">
