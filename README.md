@@ -60,14 +60,14 @@
 <h3>&nbsp;게임</h3>
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg"><img align="top" src="assets/projects/climax-game-server-m-light.svg" alt="CLIMAX 게임 서버 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg?v=2"><img align="top" src="assets/projects/yoyang-town-m-light.svg?v=2" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg?v=3"><img align="top" src="assets/projects/climax-game-server-m-light.svg?v=3" alt="CLIMAX 게임 서버 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg?v=3"><img align="top" src="assets/projects/yoyang-town-m-light.svg?v=3" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
 </p>
 
 <h3>&nbsp;웹</h3>
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg"><img align="top" src="assets/projects/soop-chzzk-styler-m-light.svg" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg?v=3"><img align="top" src="assets/projects/soop-chzzk-styler-m-light.svg?v=3" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-vod-downloader-m-dark.svg?v=2"><img align="top" src="assets/projects/soop-vod-downloader-m-light.svg?v=2" alt="SOOP VOD 다운로더 프로젝트 카드" width="48%"></picture></a>
 </p>
 
