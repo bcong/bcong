@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/webmodbus-m-dark.svg"><img align="top" src="assets/projects/webmodbus-m-light.svg" alt="WebModbus 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bcong-portfolio.pages.dev/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/coupon-alert-bot-m-dark.svg"><img align="top" src="assets/projects/coupon-alert-bot-m-light.svg" alt="쿠폰 알림봇 프로젝트 카드" width="48%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/coupon-alert-bot-m-dark.svg?v=2"><img align="top" src="assets/projects/coupon-alert-bot-m-light.svg?v=2" alt="쿠폰 알림봇 프로젝트 카드" width="48%"></picture></a>
 </p>
 
 <p align="center">
