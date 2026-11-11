@@ -18,17 +18,17 @@
 <h3>&nbsp;게임</h3>
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg"><img src="assets/projects/climax-game-server-m-light.svg" alt="CLIMAX 게임 서버 프로젝트 카드" width="49%"></picture></a>
-  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg"><img src="assets/projects/yoyang-town-m-light.svg" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg"><img align="top" src="assets/projects/climax-game-server-m-light.svg" alt="CLIMAX 게임 서버 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg"><img align="top" src="assets/projects/yoyang-town-m-light.svg" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="49%"></picture></a>
 </p>
 
 <h3>&nbsp;웹</h3>
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg"><img src="assets/projects/soop-chzzk-styler-m-light.svg" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="49%"></picture></a>
-  <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-vod-downloader-m-dark.svg"><img src="assets/projects/soop-vod-downloader-m-light.svg" alt="SOOP VOD 다운로더 프로젝트 카드" width="49%"></picture></a>
-  <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/webmodbus-m-dark.svg"><img src="assets/projects/webmodbus-m-light.svg" alt="WebModbus 프로젝트 카드" width="49%"></picture></a>
-  <a href="https://bcong-portfolio.pages.dev/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/coupon-alert-bot-m-dark.svg"><img src="assets/projects/coupon-alert-bot-m-light.svg" alt="쿠폰 알림봇 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg"><img align="top" src="assets/projects/soop-chzzk-styler-m-light.svg" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-vod-downloader-m-dark.svg"><img align="top" src="assets/projects/soop-vod-downloader-m-light.svg" alt="SOOP VOD 다운로더 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/webmodbus-m-dark.svg"><img align="top" src="assets/projects/webmodbus-m-light.svg" alt="WebModbus 프로젝트 카드" width="49%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/coupon-alert-bot-m-dark.svg"><img align="top" src="assets/projects/coupon-alert-bot-m-light.svg" alt="쿠폰 알림봇 프로젝트 카드" width="49%"></picture></a>
 </p>
 
 <p align="center">
