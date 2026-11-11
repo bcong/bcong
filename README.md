@@ -60,7 +60,7 @@
 <h3>&nbsp;게임</h3>
 
 <p align="center">
-  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg?v=3"><img align="top" src="assets/projects/climax-game-server-m-light.svg?v=3" alt="CLIMAX 게임 서버 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg?v=4"><img align="top" src="assets/projects/climax-game-server-m-light.svg?v=4" alt="CLIMAX 게임 서버 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg?v=3"><img align="top" src="assets/projects/yoyang-town-m-light.svg?v=3" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
 </p>
 
