@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/">
     <picture>
-      <source media="(max-width: 1000px) and (prefers-color-scheme: dark)" srcset="assets/hero-m-dark.svg">
-      <source media="(max-width: 1000px)" srcset="assets/hero-m-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img src="assets/hero-light.svg" alt="김경섭 · GyeongSeop Kim · 소프트웨어 풀스택 개발자, 포트폴리오 보기" width="100%">
+      <source media="(max-width: 1000px) and (prefers-color-scheme: dark)" srcset="assets/hero-m-dark.svg?v=2">
+      <source media="(max-width: 1000px)" srcset="assets/hero-m-light.svg?v=2">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
+      <img src="assets/hero-light.svg?v=2" alt="김경섭 · GyeongSeop Kim · 소프트웨어 풀스택 개발자, 포트폴리오 보기" width="100%">
     </picture>
   </a>
 </p>
@@ -19,14 +19,14 @@
 
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/climax-game-server-m-dark.svg"><img align="top" src="assets/projects/climax-game-server-m-light.svg" alt="CLIMAX 게임 서버 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg"><img align="top" src="assets/projects/yoyang-town-m-light.svg" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg?v=2"><img align="top" src="assets/projects/yoyang-town-m-light.svg?v=2" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
 </p>
 
 <h3>&nbsp;웹</h3>
 
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg"><img align="top" src="assets/projects/soop-chzzk-styler-m-light.svg" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-vod-downloader-m-dark.svg"><img align="top" src="assets/projects/soop-vod-downloader-m-light.svg" alt="SOOP VOD 다운로더 프로젝트 카드" width="48%"></picture></a>
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-vod-downloader-m-dark.svg?v=2"><img align="top" src="assets/projects/soop-vod-downloader-m-light.svg?v=2" alt="SOOP VOD 다운로더 프로젝트 카드" width="48%"></picture></a>
 </p>
 
 <p align="center">
