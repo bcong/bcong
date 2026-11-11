@@ -64,7 +64,7 @@
   <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/yoyang-town-m-dark.svg?v=3"><img align="top" src="assets/projects/yoyang-town-m-light.svg?v=3" alt="요양타운 GTA5 스트리머 서버 프로젝트 카드" width="48%"></picture></a>
 </p>
 
-<h3>&nbsp;웹</h3>
+<h3>&nbsp;웹 · 소프트웨어</h3>
 
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/soop-chzzk-styler-m-dark.svg?v=3"><img align="top" src="assets/projects/soop-chzzk-styler-m-light.svg?v=3" alt="SOOP · CHZZK 채팅 스타일러 프로젝트 카드" width="48%"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
