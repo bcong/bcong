@@ -1,56 +1,102 @@
-<div align="center">
+<p align="center">
+  <a href="https://bcong-portfolio.pages.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+      <img src="assets/hero-light.svg" alt="김경섭 · GyeongSeop Kim · 소프트웨어 풀스택 개발자, 포트폴리오 보기" width="100%">
+    </picture>
+  </a>
+</p>
 
-# 김경섭 · GyeongSeop Kim
+<p align="center">
+  <sub>프로젝트 상세, 실제 접속 영상, 문제 해결 과정은 <a href="https://bcong-portfolio.pages.dev/"><b>포트폴리오</b></a>에서 확인하세요.</sub>
+</p>
 
-**소프트웨어 풀스택 개발자** · Software Full-Stack Developer
+## 프로젝트
 
-웹 프론트엔드부터 백엔드, 실시간 통신, 장비 연동, 게임 서버까지 기능을 끝까지 설계하고 구현합니다.
+항목을 펼치면 요약이 보입니다. 상세 내용과 실제 접속 화면은 각 링크의 포트폴리오 페이지에 있습니다.
 
-<a href="https://bcong-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-bcong--portfolio-111827?style=flat-square&logo=cloudflare&logoColor=ffffff"/></a> <a href="https://github.com/bcong"><img src="https://img.shields.io/badge/GitHub-bcong-181717?style=flat-square&logo=github&logoColor=ffffff"/></a> <a href="https://velog.io/@bcong"><img src="https://img.shields.io/badge/Velog-bcong-20C997?style=flat-square&logo=velog&logoColor=ffffff"/></a> <a href="mailto:bcong9455@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/></a>
+<details>
+<summary><b>CLIMAX 게임 서버</b> · FiveM · Qbox 롤플레이 서버 외주 · 동시접속 90명 이상</summary>
 
-</div>
+과거 국내 1위 서버 운영 경험을 살려 외주로 구축했습니다. 리소스 구조, 캐시, 운영 도구를 함께 설계했습니다.
 
-## 🚀 Featured Projects
+**[상세 보기 →](https://bcong-portfolio.pages.dev/projects/climax-game-server)**
 
-| 프로젝트 | 소개 | 링크 |
-| --- | --- | --- |
-| **CLIMAX 게임 서버** | FiveM · Qbox 기반 롤플레이 서버 외주 개발, 동시접속 90명 이상 | [상세](https://bcong-portfolio.pages.dev/projects/climax-game-server) · [cmx.gg](https://cmx.gg/) |
-| **요양타운 GTA5 스트리머 서버** | SOOP · 인터넷 방송 최초의 GTA5 스트리머 롤플레이 서버, 개발진 참여 | [상세](https://bcong-portfolio.pages.dev/projects/yoyang-town) · [나무위키](https://namu.wiki/w/%EC%9A%94%EC%96%91%ED%83%80%EC%9A%B4) |
-| **SOOP · CHZZK 채팅 스타일러** | 채팅창을 꾸미는 사용자 스크립트, Greasy Fork 공개 | [SOOP](https://greasyfork.org/ko/scripts/517201) · [CHZZK](https://greasyfork.org/ko/scripts/519045) |
-| **SOOP VOD 다운로더** | 다시보기 다운로드 Chrome 확장 프로그램 (BETA) | [Chrome 웹 스토어](https://chromewebstore.google.com/detail/soop-vod-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%8D%94-beta/ehboonkgceioocpjijcplppmhopajeio) |
-| **WebModbus** | 브라우저 기반 Modbus 매니저, 시리얼과 네트워크 장비 연결 | [열기](https://webmodbus.pages.dev/#modbus-manager) |
-| **LG webOS 26 SmartThings 드라이버** | SmartThings Edge 드라이버 호환 패키지 | [GitHub](https://github.com/bcong/LGWebOS26-SmartThings-V2) |
+</details>
 
-프로젝트 설명과 실제 접속 화면은 [포트폴리오](https://bcong-portfolio.pages.dev/#projects)에서 볼 수 있습니다.
+<details>
+<summary><b>요양타운 GTA5 스트리머 서버</b> · SOOP 인터넷 방송 · 개발진 참여 · 누적 시청자 약 890만 명</summary>
 
-## 🧰 Tech Stack
+SOOP·인터넷 방송 최초의 GTA5 스트리머 롤플레이 서버입니다. 보안 사고 대응과 브랜치 운영 규칙을 정리했습니다.
 
-#### Languages
+**[상세 보기 →](https://bcong-portfolio.pages.dev/projects/yoyang-town)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![Less](https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=ffffff)
+</details>
 
-#### Frontend
+<details>
+<summary><b>SOOP · CHZZK 채팅 스타일러</b> · Greasy Fork 사용자 스크립트 · CHZZK 누적 설치 116회</summary>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000000) ![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=000000) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=ffffff) ![jQuery](https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff)
+채팅창 스타일을 꾸미는 사용자 스크립트입니다. 두 플랫폼 버전을 각각 배포했습니다.
 
-#### Backend · Realtime
+**[SOOP 상세 →](https://bcong-portfolio.pages.dev/projects/soop-chat-styler)** · **[CHZZK 상세 →](https://bcong-portfolio.pages.dev/projects/chzzk-chat-styler)**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff) ![Express](https://img.shields.io/badge/ExpressJS-000000?style=flat-square&logo=express&logoColor=ffffff) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=ffffff) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=ffffff)
+</details>
 
-#### Database · Cache
+<details>
+<summary><b>SOOP VOD 다운로더</b> · Chrome 확장 프로그램 · 웹 스토어 BETA</summary>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
+다시보기 VOD를 병렬로 내려받는 크롬 확장 프로그램입니다. 웹 스토어에 공개했습니다.
 
-#### Game · Platform
+**[상세 보기 →](https://bcong-portfolio.pages.dev/projects/soop-vod-downloader)**
 
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logoColor=ffffff) ![QBCore](https://img.shields.io/badge/QBCore-1F2937?style=flat-square&logoColor=ffffff) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=ffffff) ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=ffffff) ![Userscript](https://img.shields.io/badge/Userscript-111827?style=flat-square&logoColor=ffffff) ![Modbus](https://img.shields.io/badge/Modbus-0A7E8C?style=flat-square&logoColor=ffffff) ![Web Serial API](https://img.shields.io/badge/Web%20Serial%20API-0EA5E9?style=flat-square&logoColor=ffffff) ![SmartThings](https://img.shields.io/badge/SmartThings-1F9BDE?style=flat-square&logoColor=ffffff) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=ffffff) ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=ffffff)
+</details>
 
-#### Tools · Design
+<details>
+<summary><b>WebModbus</b> · 브라우저 기반 Modbus 매니저</summary>
 
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=000000) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ffffff) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=000000)
+시리얼과 네트워크 장비를 브라우저에서 다룹니다. 요청 창, 폴링, 통신 로그를 제공합니다.
 
-## 📫 Contact
+**[상세 보기 →](https://bcong-portfolio.pages.dev/projects/webmodbus)**
 
-- 이메일: [bcong9455@gmail.com](mailto:bcong9455@gmail.com) · [sudn_@naver.com](mailto:sudn_@naver.com)
-- Velog: [velog.io/@bcong](https://velog.io/@bcong)
-- Portfolio: [bcong-portfolio.pages.dev](https://bcong-portfolio.pages.dev/)
+</details>
+
+<details>
+<summary><b>LG webOS 26 SmartThings 드라이버</b> · SmartThings Edge · 커뮤니티 채널 배포</summary>
+
+LG webOS 26 TV를 SmartThings에 연결하는 드라이버 호환 패키지입니다. GitHub에 공개되어 있습니다.
+
+**[상세 보기 →](https://bcong-portfolio.pages.dev/projects/lg-webos-smartthings)**
+
+</details>
+
+<p align="center">
+  <sub>그 밖의 프로젝트 (FC 온라인 쿠폰 알림 봇, 사내 시스템 등)와 전체 목록은 <a href="https://bcong-portfolio.pages.dev/#projects"><b>포트폴리오 프로젝트</b></a>에 있습니다. 사내 프로젝트는 비공개 처리되어 요약만 제공합니다.</sub>
+</p>
+
+## 기술 스택
+
+<p align="center">
+  <a href="https://bcong-portfolio.pages.dev/#skills">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+      <img src="assets/stack-light.svg" alt="사용 기술 아이콘 30종" width="720">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>기술별 사용 맥락은 <a href="https://bcong-portfolio.pages.dev/#skills"><b>포트폴리오의 기술 스택</b></a>에서 확인하세요.</sub>
+</p>
+
+## 연락처
+
+<p align="center">
+  <a href="https://bcong-portfolio.pages.dev/"><b>포트폴리오</b></a> &nbsp;·&nbsp;
+  <a href="https://velog.io/@bcong">Velog</a> &nbsp;·&nbsp;
+  <a href="mailto:bcong9455@gmail.com">bcong9455@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:sudn_@naver.com">sudn_@naver.com</a>
+</p>
+
+<p align="center">
+  <sub>© 2026 GyeongSeop Kim</sub>
+</p>
