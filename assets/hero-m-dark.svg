@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="420" viewBox="0 0 400 420" role="img" aria-labelledby="hero-m-title">
+  <title id="hero-m-title">김경섭 · GyeongSeop Kim · 소프트웨어 풀스택 개발자, 포트폴리오 보기</title>
+  <style>
+    text { font-family: "Pretendard Variable", Pretendard, -apple-system, "Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo", system-ui, sans-serif; }
+    .in { animation: rise 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+    .draw { stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw 0.9s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; } .draw { animation: none; stroke-dashoffset: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="419" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <g class="in" style="animation-delay: 0.1s">
+    <text x="28" y="80" font-size="38" font-weight="800" letter-spacing="-0.5" fill="#e6edf3">
+      김경섭
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.5;0.92;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="28" y="80" font-size="38" font-weight="800" letter-spacing="-0.5" fill="#e6edf3" opacity="0">
+      GyeongSeop Kim
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.5;0.92;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="in" style="animation-delay: 0.2s">
+    <text x="28" y="118" font-size="19" font-weight="700" fill="#e6edf3">소프트웨어 풀스택 개발자</text>
+    <text x="28" y="140" font-size="14" fill="#8b949e">Software Full-Stack Developer</text>
+    <text x="28" y="170" font-size="14" fill="#8b949e">프론트엔드부터 백엔드, 실시간 통신,</text>
+    <text x="28" y="190" font-size="14" fill="#8b949e">장비 연동, 게임 서버까지.</text>
+  </g>
+  <g class="in" style="animation-delay: 0.5s">
+    <rect x="28" y="212" width="200" height="36" rx="9" fill="#e6edf3"/>
+    <text x="128" y="235" font-size="15" font-weight="700" fill="#0d1117" text-anchor="middle">포트폴리오 보기 →</text>
+  </g>
+  <path class="draw" d="M28 270 H372" stroke="#30363d" style="animation-delay: 0.25s"/>
+  <g class="in" style="animation-delay: 0.3s">
+    <text x="28" y="294" font-size="13" fill="#8b949e">생년월일</text>
+    <text x="28" y="316" font-size="16" font-weight="700" fill="#e6edf3">1999.02.06</text>
+  </g>
+  <g class="in" style="animation-delay: 0.4s">
+    <text x="204" y="294" font-size="13" fill="#8b949e">거주지</text>
+    <text x="204" y="316" font-size="16" font-weight="700" fill="#e6edf3">서울 경기</text>
+  </g>
+  <path class="draw" d="M28 336 H372" stroke="#30363d" style="animation-delay: 0.45s"/>
+  <g class="in" style="animation-delay: 0.5s">
+    <text x="28" y="360" font-size="13" fill="#8b949e">현재 소속</text>
+    <text x="28" y="382" font-size="16" font-weight="700" fill="#e6edf3">비공개 기업</text>
+  </g>
+  <g class="in" style="animation-delay: 0.6s">
+    <text x="204" y="360" font-size="13" fill="#8b949e">재직</text>
+    <text x="204" y="382" font-size="16" font-weight="700" fill="#e6edf3">2022.09 – 재직 중</text>
+  </g>
+</svg>
