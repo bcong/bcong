@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/">
     <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-m-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/hero-m-light.svg">
+      <source media="(max-width: 1000px) and (prefers-color-scheme: dark)" srcset="assets/hero-m-dark.svg">
+      <source media="(max-width: 1000px)" srcset="assets/hero-m-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
       <img src="assets/hero-light.svg" alt="김경섭 · GyeongSeop Kim · 소프트웨어 풀스택 개발자, 포트폴리오 보기" width="100%">
     </picture>
@@ -80,8 +80,8 @@ webOS 25/26 TV를 SmartThings 허브에 연결하는 Edge 드라이버입니다.
 <p align="center">
   <a href="https://bcong-portfolio.pages.dev/#skills">
     <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-m-dark.svg">
-      <source media="(max-width: 600px)" srcset="assets/stack-m-light.svg">
+      <source media="(max-width: 1000px) and (prefers-color-scheme: dark)" srcset="assets/stack-m-dark.svg">
+      <source media="(max-width: 1000px)" srcset="assets/stack-m-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
       <img src="assets/stack-light.svg" alt="사용 기술 아이콘 30종" width="720">
     </picture>
