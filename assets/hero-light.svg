@@ -9,7 +9,7 @@
     @media (prefers-reduced-motion: reduce) { .in { animation: none; } .draw { animation: none; stroke-dashoffset: 0; } }
   </style>
   <rect x="0.5" y="0.5" width="879" height="259" rx="14" fill="#ffffff" stroke="#d0d7de"/>
-  <line class="draw" x1="628" y1="36" x2="628" y2="224" stroke="#d8dee4" style="animation-delay: 0.1s"/>
+  <line class="draw" x1="628" y1="56" x2="628" y2="244" stroke="#d8dee4" style="animation-delay: 0.1s"/>
   <g class="in" style="animation-delay: 0.1s">
     <text x="48" y="104" font-size="52" font-weight="800" letter-spacing="-1" fill="#1f2328">
       김경섭
@@ -29,24 +29,14 @@
     <rect x="48" y="212" width="196" height="32" rx="8" fill="#1f2328"/>
     <text x="146" y="233" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">포트폴리오 보기 →</text>
   </g>
-  <path class="draw" d="M648 36 H832" stroke="#d8dee4" style="animation-delay: 0.25s"/>
+  <path class="draw" d="M648 107 H832" stroke="#d8dee4" style="animation-delay: 0.25s"/>
   <g class="in" style="animation-delay: 0.3s">
-    <text x="648" y="54" font-size="12" fill="#57606a">생년월일</text>
-    <text x="648" y="74" font-size="14" font-weight="700" fill="#1f2328">1999.02.06</text>
+    <text x="648" y="125" font-size="12" fill="#57606a">생년월일</text>
+    <text x="648" y="145" font-size="14" font-weight="700" fill="#1f2328">1999.02.06</text>
   </g>
-  <path class="draw" d="M648 82 H832" stroke="#d8dee4" style="animation-delay: 0.35s"/>
+  <path class="draw" d="M648 153 H832" stroke="#d8dee4" style="animation-delay: 0.35s"/>
   <g class="in" style="animation-delay: 0.4s">
-    <text x="648" y="100" font-size="12" fill="#57606a">거주지</text>
-    <text x="648" y="120" font-size="14" font-weight="700" fill="#1f2328">서울 경기</text>
-  </g>
-  <path class="draw" d="M648 128 H832" stroke="#d8dee4" style="animation-delay: 0.45s"/>
-  <g class="in" style="animation-delay: 0.5s">
-    <text x="648" y="146" font-size="12" fill="#57606a">현재 소속</text>
-    <text x="648" y="166" font-size="14" font-weight="700" fill="#1f2328">비공개 기업</text>
-  </g>
-  <path class="draw" d="M648 174 H832" stroke="#d8dee4" style="animation-delay: 0.55s"/>
-  <g class="in" style="animation-delay: 0.6s">
-    <text x="648" y="192" font-size="12" fill="#57606a">재직</text>
-    <text x="648" y="212" font-size="14" font-weight="700" fill="#1f2328">2022.09 – 재직 중</text>
+    <text x="648" y="171" font-size="12" fill="#57606a">거주지</text>
+    <text x="648" y="191" font-size="14" font-weight="700" fill="#1f2328">서울 경기</text>
   </g>
 </svg>
