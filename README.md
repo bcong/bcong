@@ -15,44 +15,14 @@
 
 ## 프로젝트
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/gamepad.svg"><img src="assets/icons/light/gamepad.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><b>CLIMAX 게임 서버</b></a><br>
-      <sub>FiveM · Qbox · 동시접속 90명 이상</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/tv.svg"><img src="assets/icons/light/tv.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><b>요양타운 GTA5 스트리머 서버</b></a><br>
-      <sub>FiveM · QBCore · 누적 시청자 약 890만 명</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/palette.svg"><img src="assets/icons/light/palette.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><b>SOOP · CHZZK 채팅 스타일러</b></a><br>
-      <sub>사용자 스크립트 · <a href="https://bcong-portfolio.pages.dev/projects/chzzk-chat-styler">CHZZK 버전</a></sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/download.svg"><img src="assets/icons/light/download.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><b>SOOP VOD 다운로더</b></a><br>
-      <sub>Chrome 확장 프로그램 · 웹 스토어 BETA</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/cable.svg"><img src="assets/icons/light/cable.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><b>WebModbus</b></a><br>
-      <sub>브라우저 기반 Modbus 매니저</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://bcong-portfolio.pages.dev/projects/lg-webos-smartthings"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/house.svg"><img src="assets/icons/light/house.svg" alt="" width="32" height="32"></picture></a><br>
-      <a href="https://bcong-portfolio.pages.dev/projects/lg-webos-smartthings"><b>LG webOS 26 드라이버</b></a><br>
-      <sub>SmartThings Edge · 공유 채널 배포</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://bcong-portfolio.pages.dev/projects/climax-game-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/gamepad.svg"><img src="assets/icons/light/gamepad.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/climax-game-server">CLIMAX 게임 서버</a></b>&nbsp;&nbsp;<sub>FiveM · Qbox · 동시접속 90명 이상</sub><br>
+  <a href="https://bcong-portfolio.pages.dev/projects/yoyang-town"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/tv.svg"><img src="assets/icons/light/tv.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/yoyang-town">요양타운 GTA5 스트리머 서버</a></b>&nbsp;&nbsp;<sub>FiveM · QBCore · 누적 시청자 약 890만 명</sub><br>
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/palette.svg"><img src="assets/icons/light/palette.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/soop-chat-styler">SOOP · CHZZK 채팅 스타일러</a></b>&nbsp;&nbsp;<sub>사용자 스크립트 · <a href="https://bcong-portfolio.pages.dev/projects/chzzk-chat-styler">CHZZK 버전</a></sub><br>
+  <a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/download.svg"><img src="assets/icons/light/download.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/soop-vod-downloader">SOOP VOD 다운로더</a></b>&nbsp;&nbsp;<sub>Chrome 확장 프로그램 · 웹 스토어 BETA</sub><br>
+  <a href="https://bcong-portfolio.pages.dev/projects/webmodbus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/cable.svg"><img src="assets/icons/light/cable.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/webmodbus">WebModbus</a></b>&nbsp;&nbsp;<sub>브라우저 기반 Modbus 매니저</sub><br>
+  <a href="https://bcong-portfolio.pages.dev/projects/lg-webos-smartthings"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/house.svg"><img src="assets/icons/light/house.svg" alt="" width="20" height="20"></picture></a>&nbsp;<b><a href="https://bcong-portfolio.pages.dev/projects/lg-webos-smartthings">LG webOS 26 드라이버</a></b>&nbsp;&nbsp;<sub>SmartThings Edge · 공유 채널 배포</sub>
+</p>
 
 <p align="center">
   <sub>그 밖의 프로젝트와 전체 목록은 <a href="https://bcong-portfolio.pages.dev/#projects"><b>포트폴리오</b></a>에서 볼 수 있습니다.</sub>
