@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>프로젝트 상세, 실제 접속 영상, 문제 해결 과정은 <a href="https://bcong-portfolio.pages.dev/"><b>포트폴리오</b></a>에서 확인하세요.</sub>
-</p>
-
 ## 연락처
 
 <p align="center">
@@ -20,6 +16,3 @@
 <a href="mailto:sudn_@naver.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/naver-dark.svg"><img align="top" src="assets/contact/naver-light.svg" alt="네이버 메일" width="50%"></picture></a><a href="https://velog.io/@bcong"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/velog-dark.svg"><img align="top" src="assets/contact/velog-light.svg" alt="Velog" width="50%"></picture></a>
 </p>
 
-<p align="center">
-  <sub>© 2026 GyeongSeop Kim</sub>
-</p>
